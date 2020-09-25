@@ -6,7 +6,7 @@ The algorithm used to implement the counting sorted adopted from [here](https://
 Each word can be converted to list of integers corresponding to the ordinals of its characters. Iterating from the first ordinal of the words to the last one that is the lenght of the longest word, applying counting sort will give the sorted list of words based on the first character, then for those words that have the same character, the counting sort is applied on the second character of the words and this procedure countinoues till the algorithm reaches to the last character or find no duplicated character at some point that is coded as a recursive function.
 
 
-<img src="https://github.com/MosesDastmard/alphabetical_sorting/blob/master/output_4_0.png">
+<img src="sorting algorithm.png">
 
 
 The numbers inside the boxes in each step in recursive algorithm are those pass as input to counting sort.
