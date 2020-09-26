@@ -1,3 +1,5 @@
+### Keywords: Python, Count Sorting, Alphabetical Sorting, Recursive Algorithm, 
+
 ## Alphabetical Sorting
 ### Counting Sort
 Counting sort is a sorting algorithm that sorts the elements of an array by counting the number of occurrences of each unique element in the array. The count is stored in an auxiliary array and the sorting is done by mapping the count as an index of the auxiliary array. And its time complexity is O(n) where n is the size of array. It can be applied only when the values in the array are in a predefined set.
