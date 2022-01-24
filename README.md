@@ -1,4 +1,4 @@
-### Keywords: Python, Count Sorting, Alphabetical Sorting, Recursive Algorithm, Running Time Analysis
+### Keywords: Python, Count Sorting, Alphabetical Sorting, Recursive Algorithm, Running Time Analysis,
 
 ## Alphabetical Sorting
 ### Counting Sort
